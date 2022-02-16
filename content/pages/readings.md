@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: fe6cb659-ab98-754f-8b3f-78a2e07e97aa
 ---
@@ -219,7 +222,7 @@ Chapter 16: Gene Regulation 2: Classification
 {{< tdopen >}}
 Networks I: Bayesian Inference, Deep Learning, Network Dynamics
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Chapter 20: Networks I Inference, Structure, Spectral Methods
