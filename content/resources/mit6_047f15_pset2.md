@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ca50eaa8-4d79-6843-37c3-e78a9891e7b5
 resourcetype: Document
 title: MIT6_047F15_pset2.pdf
 uid: c4b06c5b-4257-1455-f3a2-2c97039ebd9b

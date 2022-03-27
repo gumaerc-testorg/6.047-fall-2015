@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 235ee177-abe0-5071-e1f5-e47d55cfb1a3
 resourcetype: Document
 title: 6.047 Computational Biology, Lecture 3 Slides
 uid: 318809f1-420d-c08e-ac79-5206c14bbebd

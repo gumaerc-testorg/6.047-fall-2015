@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fe6cb659-ab98-754f-8b3f-78a2e07e97aa
 resourcetype: Other
 title: scribe templates.zip
 uid: 75b52386-b144-6037-b04e-68918d3ac707

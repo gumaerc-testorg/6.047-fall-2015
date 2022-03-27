@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fe6cb659-ab98-754f-8b3f-78a2e07e97aa
 resourcetype: Document
 title: 6.047 Computational Biology, Scribing Guide
 uid: dffa778a-716d-adc0-a794-a1983abb7d15
