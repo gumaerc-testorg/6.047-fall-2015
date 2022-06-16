@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the free online textbook (scribe notes) compiled
+  by the professor and students. It also lists the reading assignments throughout
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -9,8 +12,8 @@ uid: fe6cb659-ab98-754f-8b3f-78a2e07e97aa
 
 Readings are from the course textbook, which has been transcribed and compiled by students in this course over many years. The instructions for student "scribes," and the templates they used, are linked below.
 
-*   [Scribing Guide (PDF)]({{< baseurl >}}/resources/mit6_047f15_scribingguide)
-*   [Scribe Templates (ZIP)]({{< baseurl >}}/resources/scribetemplates) (This zip file contains: 1 .sh file and 2 .txt files.)
+*   {{% resource_link dffa778a-716d-adc0-a794-a1983abb7d15 "Scribing Guide (PDF)" %}}
+*   {{% resource_link dc1d2473-83ae-474c-0e77-84792f969639 "Scribe Templates (ZIP)" %}} (This zip file contains: 1 .sh file and 2 .txt files.)
 
 The entire course textbook is available, courtesy of the professor and the students.
 
