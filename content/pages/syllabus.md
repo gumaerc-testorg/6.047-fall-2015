@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, the grading scheme, problem sets, quizzes, the
+  final project, the "scribing" requirement, textbooks, recitations, and the collaboration
+  policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c920181f-3f79-7228-ce9c-4b245fe76bfb
 ---
@@ -128,7 +134,7 @@ Each student will contribute to the scribe notes, which are chapters of the cour
 Textbooks
 ---------
 
-The course textbook is the compiled scribe notes. The entire course textbook is available in the [readings]({{< baseurl >}}/pages/readings) section.
+The course textbook is the compiled scribe notes. The entire course textbook is available in the {{% resource_link fe6cb659-ab98-754f-8b3f-78a2e07e97aa "readings" %}} section.
 
 You may also find the following optional texts helpful:
 
