@@ -5,6 +5,7 @@ file: /courses/6-047-computational-biology-fall-2015/f07cce82d55025d75ebccd81b50
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4docs.zip
 uid: f07cce82-d550-25d7-5ebc-cd81b502f37c
 ---
 This resource has special files.
-

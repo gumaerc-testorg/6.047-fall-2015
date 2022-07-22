@@ -6,6 +6,7 @@ file: /courses/6-047-computational-biology-fall-2015/ced9b183e19e78e8a22e1ad64ae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 6.047 Computational Biology, Lecture 17 Slides
 uid: ced9b183-e19e-78e8-a22e-1ad64ae25736
 ---
 This is a file that contains information regarding electrical engineering and computer science lecture 17.
-
