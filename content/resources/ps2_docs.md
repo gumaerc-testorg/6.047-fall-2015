@@ -2,6 +2,7 @@
 content_type: resource
 description: This folder has special files.
 file: /courses/6-047-computational-biology-fall-2015/b91e9961ebb320cccb330417fd75295a_ps2_docs.zip
+file_size: 1603653
 file_type: application/zip
 learning_resource_types:
 - Assignments

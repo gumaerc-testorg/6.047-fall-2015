@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains Special files.
 file: /courses/6-047-computational-biology-fall-2015/58a3bda4a580c78f17f75905b0fb392c_ps1docs.zip
+file_size: 2620272
 file_type: application/zip
 learning_resource_types:
 - Assignments

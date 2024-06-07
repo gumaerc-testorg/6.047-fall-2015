@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains 6.047 computational biology, scribing guide.
 file: /courses/6-047-computational-biology-fall-2015/dffa778a716dadc0a794a1983abb7d15_MIT6_047F15_scribingguide.pdf
+file_size: 209180
 file_type: application/pdf
 learning_resource_types:
 - Readings
