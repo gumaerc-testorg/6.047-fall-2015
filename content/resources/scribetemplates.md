@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains special files.
 file: /courses/6-047-computational-biology-fall-2015/dc1d247383ae474c0e7784792f969639_scribetemplates.zip
+file_size: 2892
 file_type: application/zip
 learning_resource_types:
 - Readings
