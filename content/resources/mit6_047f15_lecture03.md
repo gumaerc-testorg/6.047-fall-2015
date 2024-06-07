@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding electrical engineering
   and computer science lecture 3.
 file: /courses/6-047-computational-biology-fall-2015/318809f1420dc08eac795206c14bbebd_MIT6_047F15_Lecture03.pdf
+file_size: 1853592
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
