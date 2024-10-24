@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource has got special files.
-file: /courses/6-047-computational-biology-fall-2015/2ff13b04d66a29bb1dbfbe6a348e135e_MIT6_047F15_pset3.pdf
+file: /ol-ocw-studio-app/courses/6-047-computational-biology-fall-2015/2ff13b04d66a29bb1dbfbe6a348e135e_MIT6_047F15_pset3.pdf
 file_size: 204989
 file_type: application/pdf
 learning_resource_types:
