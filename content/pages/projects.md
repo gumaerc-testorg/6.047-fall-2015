@@ -10,14 +10,14 @@ uid: 89d2e223-6d8e-c952-86ff-c9b93e4b20a8
 ---
 ## Contents
 
-- {{% resource_link 89d2e223-6d8e-c952-86ff-c9b93e4b20a8 "Overview" "#overview" %}}
-- {{% resource_link 89d2e223-6d8e-c952-86ff-c9b93e4b20a8 "Proposal Guidelines" "#Proposal_Guidelines" %}}
-- {{% resource_link 89d2e223-6d8e-c952-86ff-c9b93e4b20a8 "Selecting a Final Project" "#Final_Project" %}}
-- {{% resource_link 89d2e223-6d8e-c952-86ff-c9b93e4b20a8 "Peer Review Guidelines" "#Peer_Review" %}}
-    - {{% resource_link 89d2e223-6d8e-c952-86ff-c9b93e4b20a8 "Review Panels" "#Review_Panels" %}}
-    - {{% resource_link 89d2e223-6d8e-c952-86ff-c9b93e4b20a8 "Written Reviews" "#Written_Reviews" %}}
-- {{% resource_link 89d2e223-6d8e-c952-86ff-c9b93e4b20a8 "NIH Core Review Criteria" "#NIH_Core_Review" %}}
-- {{% resource_link 89d2e223-6d8e-c952-86ff-c9b93e4b20a8 "Grading Criteria" "#Grading_criteria" %}}
+- {{% resource_link "89d2e223-6d8e-c952-86ff-c9b93e4b20a8" "Overview" "#overview" %}}
+- {{% resource_link "89d2e223-6d8e-c952-86ff-c9b93e4b20a8" "Proposal Guidelines" "#Proposal_Guidelines" %}}
+- {{% resource_link "89d2e223-6d8e-c952-86ff-c9b93e4b20a8" "Selecting a Final Project" "#Final_Project" %}}
+- {{% resource_link "89d2e223-6d8e-c952-86ff-c9b93e4b20a8" "Peer Review Guidelines" "#Peer_Review" %}}
+    - {{% resource_link "89d2e223-6d8e-c952-86ff-c9b93e4b20a8" "Review Panels" "#Review_Panels" %}}
+    - {{% resource_link "89d2e223-6d8e-c952-86ff-c9b93e4b20a8" "Written Reviews" "#Written_Reviews" %}}
+- {{% resource_link "89d2e223-6d8e-c952-86ff-c9b93e4b20a8" "NIH Core Review Criteria" "#NIH_Core_Review" %}}
+- {{% resource_link "89d2e223-6d8e-c952-86ff-c9b93e4b20a8" "Grading Criteria" "#Grading_criteria" %}}
 
 ## {{< anchor "overview" >}}{{< /anchor >}}Overview
 
@@ -99,7 +99,7 @@ Write an National Institutes of Health (NIH) research proposal for your project 
 
 [Restructured Application Forms and Instructions for Submissions for Funding](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-09-149.html)
 
-[Details of Application Changes for Research Grants and Cooperative Agreements (PDF)](http://enhancing-peer-review.nih.gov/docs/application_changes.pdf)
+Details of Application Changes for Research Grants and Cooperative Agreements
 
 In the resources section, be sure to discuss what datasets you are going to use (and how you are going to gain access to them if they are not public), what computational resources you will use (especially for computationally intensive projects), and who you plan to ask for advice (mentors from the the instructor's lab, other faculty, etc.). Also be sure to identify relevant course lectures to help us (and your peers) evaluate the relevance of your project.
 
@@ -117,11 +117,11 @@ Peer reviews are designed to provide two benefits: first, feedback from others c
 
 Each project proposal will be anonymously reviewed by multiple reviewers who will score on both NIH grant criteria and the course project criteria. We expect reviewers to score proposals impartially even if they recognize proposals based on the topic or background of the investigators. Review panels will discuss the proposals they have received, after which review panels will collaboratively write reviews. We will assign primary and secondary reviewers based on background, but each student will be a primary reviewer at most once.
 
-{{< anchor "Review_Panels" >}}{{< /anchor >}}_Review Panels_
+{{< anchor "Review_Panels" >}}{{< /anchor >}}*Review Panels*
 
 Panel discussions will be led by the primary reviewer assigned, who will summarize the proposal and its strengths and weaknesses. All reviewers will share their comments and scores and explain their rationales. Although we anticipate reviewers changing their scores after the discussion, reviewers must explicitly say if the score they felt was appropriate is outside the range of scores shared by the panel and justify it.
 
-{{< anchor "Written_Reviews" >}}{{< /anchor >}}_Written Reviews_
+{{< anchor "Written_Reviews" >}}{{< /anchor >}}*Written Reviews*
 
 In a written review, give a score (1–5) for each of the five NIH core review criteria (reproduced below) and each of the five course project criteria (listed below). Justify each score by identifying the strengths and weaknesses of the proposal in that category and give constructive comments to improve the proposal. Note that "1" should stand for completely unsatisfactory, "3" should stand for acceptable, and "5" should stand for exemplary.
 
