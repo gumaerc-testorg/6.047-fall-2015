@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding electrical engineering
   and computer science lecture 5.
-file: /ol-ocw-studio-app/courses/6-047-computational-biology-fall-2015/7756eb0ac75a84efd66131eb7ed7f210_MIT6_047F15_Lecture05.pdf
+file: /courses/6-047-computational-biology-fall-2015/7756eb0ac75a84efd66131eb7ed7f210_MIT6_047F15_Lecture05.pdf
 file_size: 1404033
 file_type: application/pdf
 learning_resource_types:

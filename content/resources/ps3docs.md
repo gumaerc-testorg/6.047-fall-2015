@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This folder has special files.
-file: /ol-ocw-studio-app/courses/6-047-computational-biology-fall-2015/84d0ca9791b4fc4a7a4ca6ee56e3ca15_ps3docs.zip
+file: /courses/6-047-computational-biology-fall-2015/84d0ca9791b4fc4a7a4ca6ee56e3ca15_ps3docs.zip
 file_size: 1619931
 file_type: application/zip
 learning_resource_types:
