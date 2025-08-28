@@ -1,9 +1,9 @@
 ---
+body: ''
 content_type: resource
-description: This resource contains Special files.
 draft: false
-file: /ol-ocw-studio-app/courses/6-047-computational-biology-fall-2015/58a3bda4a580c78f17f75905b0fb392c_ps1docs.zip
-file_size: 2620272
+file: /ol-ocw-studio-app/courses/6-047-computational-biology-fall-2015/ps4docs.zip
+file_size: 42274454
 file_type: application/zip
 image_metadata:
   caption: ''
@@ -12,13 +12,9 @@ image_metadata:
 learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-ocw_type: OCWFile
-parent_title: Assignments
-parent_type: CourseSection
-parent_uid: ca50eaa8-4d79-6843-37c3-e78a9891e7b5
 resourcetype: Other
-title: Problem Set 1 Supporting Files
-uid: 58a3bda4-a580-c78f-17f7-5905b0fb392c
+title: Problem Set 4 Supporting Files
+uid: ad9e7e8c-767d-43ca-aab8-3a63fac6a4c4
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -31,4 +27,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This resource contains Special files.
+This resource has special files.
