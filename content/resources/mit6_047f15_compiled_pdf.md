@@ -1,24 +1,20 @@
 ---
+body: ''
 content_type: resource
-description: This resource has special files.
 draft: false
-file: /ol-ocw-studio-app/courses/6-047-computational-biology-fall-2015/d18f54f8fbd2cbd981cda1b385f0f188_MIT6_047F15_pset1.pdf
-file_size: 206931
+file: /ol-ocw-studio-app/courses/6-047-computational-biology-fall-2015/mit6_047f15_compiled.pdf
+file_size: 43478050
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-ocw_type: OCWFile
-parent_title: Assignments
-parent_type: CourseSection
-parent_uid: ca50eaa8-4d79-6843-37c3-e78a9891e7b5
 resourcetype: Document
-title: 'Problem Set 1: Aligning and Modeling Genomes'
-uid: d18f54f8-fbd2-cbd9-81cd-a1b385f0f188
+title: 'Computational Biology: Genomes, Networks, Evolution. MIT course 6.047/6.878'
+uid: 059cc506-aeac-45c4-bb08-e2689e0b53a8
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -31,4 +27,3 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This resource has special files.
