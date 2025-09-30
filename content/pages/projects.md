@@ -97,7 +97,7 @@ Final presentation dates
 
 Write an National Institutes of Health (NIH) research proposal for your project describing your specific aims, research strategy, and resources. Follow the latest guidelines (available at the URLs below), making sure to adhere to the page limits.
 
-[Restructured Application Forms and Instructions for Submissions for Funding](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-09-149.html)
+{{% resource_link "44518a1e-95fa-4904-8ea8-cfb5f011c4e4" "Restructured Application Forms and Instructions for Submissions for Funding" %}}
 
 Details of Application Changes for Research Grants and Cooperative Agreements
 
