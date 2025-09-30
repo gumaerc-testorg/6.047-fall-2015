@@ -140,7 +140,7 @@ You may also find the following optional texts helpful:
 
 Durbin, Richard, Sean R. Eddy, Anders Krogh, et al. _Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids_. Cambridge University Press, 1998.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262101066) Jones, Neil C., and Pavel Pevzner. _An Introduction to Bioinformatics Algorithms_. MIT Press, 2004. ISBN: 9780262101066. \[Preview on [Google Books](http://books.google.com/books?id=p_qzpkNVcUwC&pg=PAfrontcover)\]
+{{% resource_link "2997f71d-de18-4b7a-bc99-8a721ce02b28" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jones, Neil C., and Pavel Pevzner. _An Introduction to Bioinformatics Algorithms_. MIT Press, 2004. ISBN: 9780262101066. \[Preview on {{% resource_link "e7f837b1-bde5-4f4a-b865-059b9d3bac09" "Google Books" %}}\]
 
 Duda, Richard O., Peter E. Hart, and David G. Stork. _Pattern Classification_. John Wiley & Sons, 2003. ISBN: 9789814126021.
 
